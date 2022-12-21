@@ -1,0 +1,1372 @@
+[2022-12-16 10:00:23,273] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/]
+[2022-12-16 10:00:23,287] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 10:00:28,153] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signin]
+[2022-12-16 10:00:28,383] [INFO] [auth_views.py]:[31] abcde Login Fail
+[2022-12-16 10:00:28,389] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 10:00:43,350] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signin]
+[2022-12-16 10:00:43,572] [INFO] [auth_views.py]:[31] test1 Login Fail
+[2022-12-16 10:00:43,579] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 10:00:48,501] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signin]
+[2022-12-16 10:00:48,723] [INFO] [auth_views.py]:[31] test1 Login Fail
+[2022-12-16 10:00:48,728] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 10:01:14,180] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signin]
+[2022-12-16 10:01:14,402] [INFO] [auth_views.py]:[31] test1 Login Fail
+[2022-12-16 10:01:14,408] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 10:07:00,985] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signin]
+[2022-12-16 10:07:01,205] [INFO] [auth_views.py]:[31] admin Login Fail
+[2022-12-16 10:07:01,212] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 10:21:52,219] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signin]
+[2022-12-16 10:21:52,448] [INFO] [auth_views.py]:[23] admin Login Success
+[2022-12-16 10:21:52,456] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:22:21,982] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 10:22:48,885] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 10:23:20,392] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 10:23:20,622] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:23:50,917] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:24:17,338] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 10:24:37,813] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 10:24:39,069] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 10:24:41,581] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 10:24:53,969] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/]
+[2022-12-16 10:24:54,109] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/jquery-qrcode.js]
+[2022-12-16 10:24:58,263] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:25:03,777] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:25:15,591] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 10:25:20,403] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 10:25:30,892] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 10:25:31,131] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:25:36,345] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:25:37,703] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 10:27:10,068] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 10:28:36,493] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 10:28:37,831] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:28:39,453] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 10:28:40,651] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:28:41,593] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 10:28:45,965] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 10:28:49,035] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:29:31,080] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:29:34,129] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:29:35,805] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 10:30:39,899] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signout]
+[2022-12-16 10:30:39,902] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 10:30:48,797] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signin]
+[2022-12-16 10:30:49,025] [INFO] [auth_views.py]:[23] admin Login Success
+[2022-12-16 10:30:49,032] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:30:52,433] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:31:01,439] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:31:02,173] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 10:31:09,543] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:34:30,308] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:34:30,462] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:35:10,205] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:35:10,364] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:35:13,480] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signout]
+[2022-12-16 10:35:13,483] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 10:35:16,722] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signin]
+[2022-12-16 10:35:16,948] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/]
+[2022-12-16 10:35:17,086] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/jquery-qrcode.js]
+[2022-12-16 10:35:32,812] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signout]
+[2022-12-16 10:35:32,815] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 10:35:37,216] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signin]
+[2022-12-16 10:35:37,440] [INFO] [auth_views.py]:[23] admin Login Success
+[2022-12-16 10:35:37,447] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:35:37,588] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:35:50,820] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:36:26,133] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:36:26,290] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:36:26,291] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:36:54,092] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:36:54,247] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:36:54,247] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:39:14,445] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:39:14,603] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:39:14,604] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:40:47,934] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:40:48,097] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:40:48,098] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:42:29,747] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:42:29,895] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:42:29,896] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:42:38,003] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:42:38,146] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:42:38,147] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:43:03,227] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:43:03,380] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:43:03,380] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:43:08,755] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:43:08,900] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:43:08,900] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:43:35,043] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:43:35,187] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:43:35,187] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:43:48,894] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:43:49,046] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:44:00,876] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:44:01,029] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:44:03,632] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:44:03,783] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:44:03,783] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:44:05,869] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:44:06,014] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:44:06,949] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 10:44:07,099] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:44:08,651] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:44:08,797] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:44:14,067] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:44:14,216] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:44:14,216] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:44:17,444] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 10:44:17,546] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:44:19,281] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:44:19,423] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:44:19,424] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:50:43,484] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:50:43,647] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:50:43,648] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:50:44,167] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:50:44,314] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:50:44,315] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:51:49,811] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:51:49,970] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:51:49,971] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:53:04,418] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:53:04,572] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:53:04,572] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:53:20,650] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:53:20,798] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:53:20,798] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:54:13,395] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:54:13,552] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:54:13,553] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:54:50,570] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:54:50,722] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:54:50,722] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:55:04,658] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:55:04,805] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:55:04,805] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:55:23,322] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:55:23,471] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:55:23,472] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:55:34,290] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:55:34,434] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:55:34,435] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:55:49,538] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:55:49,690] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:55:49,690] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:56:22,642] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:56:22,791] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:56:22,792] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:56:32,114] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:56:32,260] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:56:32,260] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:56:33,042] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:56:33,188] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:56:33,188] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:56:39,674] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:56:39,813] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:56:39,813] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:57:09,738] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:57:09,883] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:57:09,884] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:57:28,482] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:57:28,729] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:57:28,729] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:57:32,834] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:57:32,987] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:57:32,987] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:57:45,210] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:57:45,353] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:57:45,354] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:57:56,203] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:57:56,355] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:57:56,356] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:57:57,940] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:57:58,089] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:57:58,090] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:57:59,848] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:57:59,991] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:57:59,991] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:58:00,695] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 10:58:00,837] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:58:03,442] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:58:03,583] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:58:03,583] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:59:25,546] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:59:25,704] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:59:25,705] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:59:26,267] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 10:59:26,412] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 10:59:26,413] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:59:36,041] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:59:36,188] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:59:36,188] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 10:59:37,237] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:59:37,389] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:59:37,390] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:59:39,591] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 10:59:39,698] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:59:41,306] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 10:59:41,450] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:59:41,451] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 10:59:42,380] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 10:59:42,523] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 10:59:42,524] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:00:59,961] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:01:00,127] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:01:00,128] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:01:00,534] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:01:00,681] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:01:00,682] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:01:22,691] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:01:22,831] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:01:22,832] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:01:23,313] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:01:23,463] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:01:23,464] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:01:29,804] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:01:29,950] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:01:29,950] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:02:21,783] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:02:21,940] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:02:21,940] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:02:38,030] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:02:38,178] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:02:38,178] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:02:38,916] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:02:39,068] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:02:39,068] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:03:08,304] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:03:08,455] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:03:08,456] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:03:59,149] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:03:59,303] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:03:59,304] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:04:27,089] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:04:27,238] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:04:27,239] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:04:32,105] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:04:32,267] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:04:32,268] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:04:33,345] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:04:33,489] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:04:33,490] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:04:34,393] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:04:34,646] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:04:34,647] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:05:13,785] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:05:13,948] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:05:13,948] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:05:15,257] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:05:15,402] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:05:15,403] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:05:24,281] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:05:24,428] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:05:24,429] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:05:46,493] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:05:46,648] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:05:46,649] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:05:47,656] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:05:47,906] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:05:47,908] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:05:49,153] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:05:49,297] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:05:49,298] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:06:36,042] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:06:36,210] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:06:36,210] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:06:48,501] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:06:48,657] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:06:48,657] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:09:16,912] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:09:17,074] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:09:17,075] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:09:17,749] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:09:17,902] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:09:17,903] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:09:20,839] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:09:20,989] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:09:20,989] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:09:21,467] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:09:21,618] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:09:21,618] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:09:49,537] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:09:49,700] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:09:49,701] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:10:26,546] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:10:26,596] [ERROR] [db.py]:[60] select_all error: (psycopg2.errors.SyntaxError) 오류:  구문 오류, ")" 부근
+LINE 1: SELECT row_number() over()) AS num, * FROM employee WHERE di...
+                                  ^
+
+[SQL: SELECT row_number() over()) AS num, * FROM employee WHERE discard = 0 AND TYPE != 1 ORDER BY eno]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-12-16 11:10:26,600] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 11:10:26,710] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:10:32,110] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signin]
+[2022-12-16 11:10:32,332] [INFO] [auth_views.py]:[23] admin Login Success
+[2022-12-16 11:10:32,340] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:10:32,489] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:10:32,490] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:10:35,264] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:10:35,308] [ERROR] [db.py]:[60] select_all error: (psycopg2.errors.SyntaxError) 오류:  구문 오류, ")" 부근
+LINE 1: SELECT row_number() over()) AS num, * FROM employee WHERE di...
+                                  ^
+
+[SQL: SELECT row_number() over()) AS num, * FROM employee WHERE discard = 0 AND TYPE != 1 ORDER BY eno]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-12-16 11:10:35,328] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 11:10:35,432] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:11:15,577] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 11:11:15,685] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:11:19,379] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:11:19,536] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:11:19,537] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:11:19,909] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:11:23,703] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:11:23,850] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:11:23,851] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:12:03,641] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:12:03,813] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:12:03,814] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:12:21,547] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:12:21,705] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:12:21,706] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:12:22,507] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:12:22,660] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:12:22,660] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:12:23,963] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:12:24,106] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:12:24,106] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:12:51,520] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:12:51,695] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:12:51,695] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:12:52,062] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:12:52,225] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:12:52,226] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:12:53,517] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:12:53,666] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:12:53,666] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:12:54,127] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:12:54,279] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:12:54,279] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:13:02,684] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:13:02,840] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:13:02,840] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:13:04,271] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:13:04,420] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:13:04,421] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:13:05,261] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:13:05,411] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:13:05,412] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:13:06,000] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:13:06,148] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:13:06,149] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:13:11,523] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:13:11,673] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:13:11,674] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:19:39,977] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:19:40,144] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:19:40,145] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:19:42,176] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:19:42,281] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:20:05,168] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:20:05,279] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:20:05,279] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:20:06,239] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:20:06,343] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:20:06,343] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:21:52,050] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:21:52,166] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:21:52,167] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:22:24,799] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:22:24,907] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:22:24,908] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:22:52,559] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:22:52,665] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:22:52,666] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:23:12,751] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:23:12,859] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:23:12,860] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:23:14,239] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:23:14,338] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:23:14,339] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:23:43,367] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:23:43,481] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:23:43,481] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:24:28,135] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:24:28,243] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:24:28,243] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:24:43,711] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:24:43,819] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:24:43,819] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:25:21,688] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:25:21,793] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:25:21,794] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:25:23,215] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:25:23,319] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:25:23,320] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:25:38,031] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:25:38,136] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:25:38,136] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:25:39,551] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:25:39,651] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:25:39,652] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:25:43,975] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:25:44,083] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:25:44,083] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:26:07,911] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:26:08,019] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:26:08,020] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:27:44,480] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:27:44,592] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:27:44,593] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:28:04,943] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:28:05,053] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:28:05,053] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:28:32,422] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:28:32,536] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:28:32,537] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:28:56,863] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:28:56,972] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:28:56,973] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:32:14,895] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:32:15,006] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:32:15,006] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:32:42,614] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:32:42,720] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:32:42,721] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:33:04,918] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:33:05,025] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:33:05,026] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:33:33,838] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:33:33,948] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:33:33,948] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:34:08,502] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:34:08,609] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:34:08,610] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:34:37,086] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:34:37,195] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:34:37,195] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:34:42,000] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:34:42,180] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:34:42,182] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:34:47,561] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:34:47,712] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:34:47,713] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:34:49,245] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:34:49,394] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:34:49,395] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:34:52,641] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:34:52,791] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:34:52,792] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:34:53,672] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:34:53,816] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:34:53,817] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:34:55,287] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:34:55,394] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:34:55,395] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:34:56,211] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:34:56,361] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:34:56,361] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:34:57,070] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:34:57,322] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:34:57,323] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:35:37,518] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:35:37,685] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:35:37,686] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:35:38,019] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:35:38,167] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:35:38,167] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:35:38,886] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:35:38,991] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:35:38,992] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:35:40,950] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:35:41,097] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:35:41,097] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:35:41,900] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:35:42,048] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:35:42,048] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:35:42,539] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:35:42,642] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:35:42,643] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:35:43,634] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:35:43,780] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:35:43,781] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:35:45,425] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-16 11:35:45,529] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:35:45,529] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_insert.css]
+[2022-12-16 11:35:46,639] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:35:46,786] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:35:46,787] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:35:47,765] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:35:47,915] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:35:47,915] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:35:50,716] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:35:50,863] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:35:50,864] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:35:51,712] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:35:51,880] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:35:51,881] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:39:23,289] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:39:23,453] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:39:23,454] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:39:24,456] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:39:24,459] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:39:24,600] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:39:24,600] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:40:38,286] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:40:38,286] [ERROR] [main_views.py]:[66] 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2022-12-16 11:40:38,342] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:40:38,497] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:40:38,499] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:42:28,601] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:42:28,655] [ERROR] [db.py]:[49] execute error: (psycopg2.errors.InvalidDatetimeFormat) 오류:  "None" 값은 "YYYY"에 유효하지 않음
+DETAIL:  값은 정수여야 합니다.
+
+[SQL: SELECT (row_number() over()) AS num, * FROM pay_log WHERE crtime BETWEEN TO_TIMESTAMP('None','YYYYMMDD') AND TO_TIMESTAMP('None','YYYYMMDD') + INTERVAL '1 day' ORDER BY crtime DESC LIMIT 1000 OFFSET 0;]
+(Background on this error at: https://sqlalche.me/e/14/9h9h)
+[2022-12-16 11:42:28,659] [ERROR] [main_views.py]:[67] 'NoneType' object is not iterable
+[2022-12-16 11:42:28,662] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:42:28,820] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:42:28,821] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:48:05,522] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:48:05,689] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:48:05,689] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:51:59,300] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:51:59,467] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:51:59,468] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:51:59,833] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:51:59,989] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:51:59,990] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:52:01,246] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 11:52:01,396] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:52:01,397] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 11:52:02,661] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:52:02,810] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:52:02,811] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 11:52:03,377] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 11:52:03,526] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:52:03,526] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 11:52:09,503] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 11:52:09,651] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 11:52:09,652] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 12:32:37,043] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/update/point]
+[2022-12-16 12:32:37,044] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 12:33:13,675] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/update/point]
+[2022-12-16 12:33:13,675] [ERROR] [main_views.py]:[103] 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2022-12-16 12:34:04,145] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/update/point]
+[2022-12-16 12:34:04,146] [ERROR] [main_views.py]:[103] 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2022-12-16 12:36:00,996] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/update/point]
+[2022-12-16 12:36:01,081] [ERROR] [db.py]:[49] execute error: (psycopg2.errors.SyntaxError) 오류:  구문 오류, "WHERE" 부근
+LINE 1: UPDATE employee SET point= WHERE id='test1'
+                                   ^
+
+[SQL: UPDATE employee SET point= WHERE id='test1']
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-12-16 12:36:01,081] [ERROR] [main_views.py]:[103] updateEmployeePoint error
+[2022-12-16 12:38:05,013] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/update/point]
+[2022-12-16 12:38:05,064] [ERROR] [db.py]:[49] execute error: (psycopg2.errors.SyntaxError) 오류:  구문 오류, "WHERE" 부근
+LINE 1: UPDATE employee SET point= WHERE id='test1'
+                                   ^
+
+[SQL: UPDATE employee SET point= WHERE id='test1']
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-12-16 12:38:05,064] [ERROR] [main_views.py]:[103] updateEmployeePoint error
+[2022-12-16 12:38:45,913] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/update/point]
+[2022-12-16 12:38:45,964] [ERROR] [db.py]:[49] execute error: (psycopg2.errors.UndefinedColumn) 오류:  "id" 이름의 칼럼은 없습니다
+LINE 1: UPDATE employee SET point=-1000 WHERE id='test1'
+                                              ^
+
+[SQL: UPDATE employee SET point=-1000 WHERE id='test1']
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-12-16 12:38:45,965] [ERROR] [main_views.py]:[103] updateEmployeePoint error
+[2022-12-16 12:39:21,518] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/update/point]
+[2022-12-16 12:39:21,572] [ERROR] [db.py]:[49] execute error: (psycopg2.errors.SyntaxError) 오류:  구문 오류, ")" 부근
+LINE 1: ... INTO pay_log(user_id, point, memo) VALUES('test1', 1000, );
+                                                                     ^
+
+[SQL: INSERT INTO pay_log(user_id, point, memo) VALUES('test1', 1000, );]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-12-16 12:39:21,572] [ERROR] [main_views.py]:[103] insertPointLog error
+[2022-12-16 12:41:46,914] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/update/point]
+[2022-12-16 12:41:46,967] [ERROR] [main_views.py]:[103] dump() missing 1 required positional argument: 'fp'
+[2022-12-16 12:43:12,832] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/update/point]
+[2022-12-16 12:43:12,885] [ERROR] [main_views.py]:[103] dump() missing 1 required positional argument: 'fp'
+[2022-12-16 14:17:53,490] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signout]
+[2022-12-16 14:17:53,495] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 14:17:53,620] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 14:17:56,363] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signin]
+[2022-12-16 14:17:56,599] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/]
+[2022-12-16 14:17:56,760] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 14:17:56,761] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/jquery-qrcode.js]
+[2022-12-16 14:18:56,119] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:18:56,120] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 14:20:05,533] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/]
+[2022-12-16 14:20:05,700] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/user_index.css]
+[2022-12-16 14:20:05,702] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 14:20:05,702] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/jquery-qrcode.js]
+[2022-12-16 14:21:02,402] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:25:06,570] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:28:03,241] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:28:45,385] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:28:45,385] [ERROR] [main_views.py]:[132] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 14:40:52,390] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:40:52,390] [ERROR] [main_views.py]:[128] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 14:40:52,441] [ERROR] [db.py]:[49] execute error: (psycopg2.errors.SyntaxError) 오류:  구문 오류, "strftime" 부근
+LINE 1: ...id, text, error_type) values('test1','descriptor 'strftime' ...
+                                                             ^
+
+[SQL: INSERT INTO log(user_id, text, error_type) values('test1','descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object','ERROR')]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-12-16 14:42:49,774] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:42:49,774] [ERROR] [main_views.py]:[129] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 14:43:46,562] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:43:46,563] [ERROR] [main_views.py]:[129] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 14:44:33,231] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:44:33,231] [ERROR] [main_views.py]:[129] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 14:46:25,401] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:46:25,401] [ERROR] [main_views.py]:[130] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 14:47:51,575] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:47:51,577] [ERROR] [main_views.py]:[130] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 14:50:14,980] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:50:14,980] [ERROR] [main_views.py]:[130] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 14:50:48,531] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:50:48,532] [ERROR] [main_views.py]:[130] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 14:52:20,532] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:52:20,533] [ERROR] [main_views.py]:[130] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 14:54:08,480] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:54:08,481] [ERROR] [main_views.py]:[130] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 14:55:04,096] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:55:04,097] [ERROR] [main_views.py]:[131] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 14:55:43,069] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:55:43,070] [ERROR] [main_views.py]:[133] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 14:58:56,388] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 14:58:56,389] [ERROR] [main_views.py]:[133] descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[2022-12-16 15:13:46,715] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 15:13:46,715] [ERROR] [main_views.py]:[133] Time over
+[2022-12-16 15:14:31,539] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 15:14:31,592] [ERROR] [main_views.py]:[136] 'RESULT' object does not support item assignment
+[2022-12-16 15:19:28,019] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 15:19:28,069] [ERROR] [main_views.py]:[135] Invalid format string
+[2022-12-16 15:21:44,238] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 15:21:44,239] [ERROR] [main_views.py]:[135] Time over
+[2022-12-16 15:22:08,918] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 15:22:08,968] [ERROR] [main_views.py]:[135] Invalid format string
+[2022-12-16 15:22:53,838] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 15:22:53,991] [ERROR] [main_views.py]:[136] Invalid format string
+[2022-12-16 15:24:11,980] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 15:24:12,031] [ERROR] [main_views.py]:[139] Invalid format string
+[2022-12-16 15:25:33,417] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 15:25:33,470] [ERROR] [main_views.py]:[140] Invalid format string
+[2022-12-16 15:26:32,179] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 15:26:32,232] [ERROR] [main_views.py]:[140] Invalid format string
+[2022-12-16 15:29:38,189] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 15:32:04,335] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/make]
+[2022-12-16 15:40:37,923] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 15:41:57,666] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 15:41:57,669] [ERROR] [main_views.py]:[169] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\wrappers.py", line 128, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\wrappers\request.py", line 611, in on_json_loading_failed
+    raise BadRequest(
+werkzeug.exceptions.BadRequest: 400 Bad Request: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 148, in checkToken
+    params = request.get_json()
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\wrappers\request.py", line 571, in get_json
+    return self.on_json_loading_failed(None)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\wrappers.py", line 133, in on_json_loading_failed
+    raise BadRequest() from e
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+[2022-12-16 15:42:51,857] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 15:42:51,858] [ERROR] [main_views.py]:[169] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 149, in checkToken
+    id = params['user_id']
+KeyError: 'user_id'
+
+[2022-12-16 15:43:02,712] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 15:43:02,713] [ERROR] [main_views.py]:[169] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 159, in checkToken
+    if (time - datetime.timedelta(days=timeout)) < tokenTime:
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+
+[2022-12-16 15:44:46,605] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 15:44:46,606] [ERROR] [main_views.py]:[169] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 159, in checkToken
+    tokenTime = datetime.datetime(year=int(time[0:4]), month=int(time[4:6]), day=int(time[6:8]), hour=int(time[8:10]), minute=int(time[10:12]), second=int(time[12:]))
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+
+[2022-12-16 15:45:58,777] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 15:45:58,778] [INFO] [main_views.py]:[160] test1 Token Check Success
+[2022-12-16 15:45:58,833] [ERROR] [main_views.py]:[169] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 162, in checkToken
+    return redirect(url_for('updatePoint'), id=id, point=point)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\helpers.py", line 256, in url_for
+    return current_app.url_for(
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'updatePoint'. Did you mean 'main.updatePoint' instead?
+
+[2022-12-16 15:48:36,900] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 15:48:36,900] [INFO] [main_views.py]:[162] test1 Token Check Success
+[2022-12-16 15:48:36,955] [ERROR] [main_views.py]:[171] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 164, in checkToken
+    return redirect(url_for('updatePoint'), id=id, point=point)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\helpers.py", line 256, in url_for
+    return current_app.url_for(
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'updatePoint'. Did you mean 'main.updatePoint' instead?
+
+[2022-12-16 15:48:53,975] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 15:48:53,975] [INFO] [main_views.py]:[162] test1 Token Check Success
+[2022-12-16 15:48:54,022] [ERROR] [main_views.py]:[171] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 164, in checkToken
+    return redirect(url_for('updatePoint'), id=id, point=point)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\helpers.py", line 256, in url_for
+    return current_app.url_for(
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'updatePoint'. Did you mean 'main.updatePoint' instead?
+
+[2022-12-16 15:49:33,217] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 15:49:33,219] [ERROR] [main_views.py]:[171] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 161, in checkToken
+    if (time - datetime.timedelta(days=timeout)) < tokenTime:
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+
+[2022-12-16 15:50:29,645] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 15:50:29,646] [ERROR] [main_views.py]:[171] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 161, in checkToken
+    if (time - datetime.timedelta(days=timeout)) < tokenTime:
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+
+[2022-12-16 15:59:29,913] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 15:59:29,914] [ERROR] [main_views.py]:[173] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 163, in checkToken
+    if (time - datetime.timedelta(days=timeout)) < tokenTime:
+TypeError: unsupported operand type(s) for -: 'str' and 'datetime.timedelta'
+
+[2022-12-16 16:00:40,198] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:00:40,199] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:00:40,255] [ERROR] [main_views.py]:[173] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 166, in checkToken
+    return redirect(url_for('updatePoint'), id=id, point=point)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\helpers.py", line 256, in url_for
+    return current_app.url_for(
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'updatePoint'. Did you mean 'main.updatePoint' instead?
+
+[2022-12-16 16:01:30,505] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:01:30,505] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:01:30,558] [ERROR] [main_views.py]:[173] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 166, in checkToken
+    return redirect('/update/point', id=id, point=point)
+TypeError: redirect() got an unexpected keyword argument 'id'
+
+[2022-12-16 16:02:35,048] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:02:35,048] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:02:35,103] [ERROR] [main_views.py]:[173] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 166, in checkToken
+    return redirect(url_for('updatePoint', id=id, point=point))
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\helpers.py", line 256, in url_for
+    return current_app.url_for(
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'updatePoint' with values ['id', 'point']. Did you mean 'main.updatePoint' instead?
+
+[2022-12-16 16:06:50,810] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:06:50,811] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:06:50,864] [ERROR] [main_views.py]:[175] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 166, in checkToken
+    print(url_for('updatePoint'))
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\helpers.py", line 256, in url_for
+    return current_app.url_for(
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'updatePoint'. Did you mean 'main.updatePoint' instead?
+
+[2022-12-16 16:08:32,461] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:08:32,461] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:08:32,515] [ERROR] [main_views.py]:[175] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 166, in checkToken
+    print(url_for('main_views.updatePoint'))
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\helpers.py", line 256, in url_for
+    return current_app.url_for(
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'main_views.updatePoint'. Did you mean 'main.updatePoint' instead?
+
+[2022-12-16 16:08:52,794] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:08:52,794] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:08:52,957] [ERROR] [main_views.py]:[175] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 167, in checkToken
+    print(url_for('updatePoint', id=id, point=point))
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\helpers.py", line 256, in url_for
+    return current_app.url_for(
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'updatePoint' with values ['id', 'point']. Did you mean 'main.updatePoint' instead?
+
+[2022-12-16 16:28:55,908] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:28:55,909] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:28:55,962] [ERROR] [main_views.py]:[175] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 166, in checkToken
+    print(url_for('main.updatePoint'))
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\helpers.py", line 256, in url_for
+    return current_app.url_for(
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'main.updatePoint'. Did you mean 'main_view.updatePoint' instead?
+
+[2022-12-16 16:29:08,253] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:29:08,253] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:29:08,308] [ERROR] [main_views.py]:[175] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 166, in checkToken
+    print(url_for('main.updatePoint'))
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\helpers.py", line 256, in url_for
+    return current_app.url_for(
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'main.updatePoint'. Did you mean 'main_views.updatePoint' instead?
+
+[2022-12-16 16:32:43,116] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:32:43,117] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:32:43,172] [ERROR] [main_views.py]:[175] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 167, in checkToken
+    print(url_for('updatePoint', id=id, point=point))
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\helpers.py", line 256, in url_for
+    return current_app.url_for(
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'updatePoint' with values ['id', 'point']. Did you mean 'main.updatePoint' instead?
+
+[2022-12-16 16:33:09,612] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:33:09,613] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:33:09,668] [ERROR] [main_views.py]:[175] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 167, in checkToken
+    print(url_for('updatePoint', id=id, point=point))
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\helpers.py", line 256, in url_for
+    return current_app.url_for(
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'updatePoint' with values ['id', 'point']. Did you mean 'main.updatePoint' instead?
+
+[2022-12-16 16:33:27,432] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:33:27,432] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:35:10,290] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:35:10,290] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:36:43,668] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:36:43,669] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:41:57,979] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:41:57,980] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:41:58,034] [ERROR] [main_views.py]:[174] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 167, in checkToken
+    return redirect(url_for('main.updatePoint', _method='post', id=id, point=point))
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\helpers.py", line 256, in url_for
+    return current_app.url_for(
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2031, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\app.py", line 2020, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\werkzeug\routing\map.py", line 917, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'main.updatePoint' ('post') with values ['id', 'point']. Did you mean to use methods ['OPTIONS', 'POST']?
+
+[2022-12-16 16:42:54,184] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:42:54,184] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:43:39,723] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:43:39,723] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:45:13,300] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:45:13,300] [INFO] [main_views.py]:[164] test1 Token Check Success
+[2022-12-16 16:51:37,737] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:51:37,737] [INFO] [main_views.py]:[196] test1 Token Check Success
+[2022-12-16 16:52:11,241] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:52:11,242] [INFO] [main_views.py]:[196] test1 Token Check Success
+[2022-12-16 16:52:56,718] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:52:56,719] [INFO] [main_views.py]:[196] test1 Token Check Success
+[2022-12-16 16:53:37,435] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:53:37,435] [INFO] [main_views.py]:[196] test1 Token Check Success
+[2022-12-16 16:54:04,289] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:54:04,290] [INFO] [main_views.py]:[196] test1 Token Check Success
+[2022-12-16 16:55:46,874] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:55:46,875] [INFO] [main_views.py]:[195] test1 Token Check Success
+[2022-12-16 16:56:23,649] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 16:56:23,649] [INFO] [main_views.py]:[196] test1 Token Check Success
+[2022-12-16 17:00:34,509] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/signout]
+[2022-12-16 17:00:34,749] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/auth/main]
+[2022-12-16 17:00:34,867] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:00:40,890] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/auth/signin]
+[2022-12-16 17:00:41,119] [INFO] [auth_views.py]:[23] admin Login Success
+[2022-12-16 17:00:41,125] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 17:00:41,282] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 17:00:41,283] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:00:42,532] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 17:00:42,812] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:00:42,813] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 17:00:44,821] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 17:00:44,972] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:00:44,973] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 17:00:45,526] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:00:45,682] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:00:45,683] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:01:13,543] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 17:01:13,700] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:01:13,701] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 17:01:14,806] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 17:01:14,959] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:01:14,960] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 17:01:19,439] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 17:01:19,591] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:01:19,592] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 17:01:20,884] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:01:21,034] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:01:21,035] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:01:39,917] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 17:01:40,077] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:01:40,078] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 17:01:40,742] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 17:01:40,896] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:01:40,897] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 17:02:09,319] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 17:02:09,480] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:02:09,481] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 17:02:10,052] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 17:02:10,207] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:02:10,208] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 17:02:11,940] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 17:02:12,090] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:02:12,091] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 17:02:18,004] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:02:18,005] [ERROR] [main_views.py]:[205] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 191, in checkToken
+    raise Exception("ID Miss Match")
+Exception: ID Miss Match
+
+[2022-12-16 17:02:46,276] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 17:02:46,440] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:02:46,441] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 17:02:47,167] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 17:02:47,337] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:02:47,338] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 17:02:49,003] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 17:02:49,152] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:02:49,152] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 17:03:51,817] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:03:51,818] [INFO] [main_views.py]:[196] hong123 Token Check Success
+[2022-12-16 17:03:58,731] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 17:03:58,886] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:03:58,887] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 17:04:03,060] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 17:04:03,211] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:04:03,212] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 17:04:04,053] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:04:04,207] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:04:04,209] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:04:15,521] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:04:15,521] [INFO] [main_views.py]:[196] hong123 Token Check Success
+[2022-12-16 17:04:21,318] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:04:21,319] [INFO] [main_views.py]:[196] hong123 Token Check Success
+[2022-12-16 17:04:26,721] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:04:26,722] [INFO] [main_views.py]:[196] hong123 Token Check Success
+[2022-12-16 17:04:28,693] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 17:04:28,852] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:04:28,853] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 17:04:29,425] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-16 17:04:29,585] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:04:29,586] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/employee_list.css]
+[2022-12-16 17:04:31,752] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 17:04:31,904] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:04:31,905] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 17:04:32,440] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:04:32,594] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:04:32,595] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:04:44,157] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:04:44,158] [INFO] [main_views.py]:[196] hong123 Token Check Success
+[2022-12-16 17:04:45,828] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:04:45,829] [INFO] [main_views.py]:[196] hong123 Token Check Success
+[2022-12-16 17:04:47,322] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:04:47,323] [INFO] [main_views.py]:[196] hong123 Token Check Success
+[2022-12-16 17:04:48,658] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:04:48,658] [INFO] [main_views.py]:[196] hong123 Token Check Success
+[2022-12-16 17:04:50,056] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:04:50,056] [INFO] [main_views.py]:[196] hong123 Token Check Success
+[2022-12-16 17:04:51,467] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:04:51,626] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:04:51,627] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:04:58,310] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:04:58,310] [INFO] [main_views.py]:[196] hong123 Token Check Success
+[2022-12-16 17:05:00,085] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:05:00,250] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:05:00,250] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:05:02,726] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 17:05:02,878] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:05:02,879] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 17:06:38,247] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:06:38,405] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:06:38,406] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:07:01,348] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:07:01,516] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:07:01,517] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:13:56,114] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:13:56,284] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:13:56,285] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:14:09,762] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:14:09,928] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:14:09,929] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:14:19,958] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:14:19,958] [INFO] [main_views.py]:[196] hong123 Token Check Success
+[2022-12-16 17:14:22,801] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:14:22,801] [INFO] [main_views.py]:[196] hong123 Token Check Success
+[2022-12-16 17:14:24,411] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:14:24,586] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:14:24,586] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:28:25,154] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:28:25,317] [ERROR] [main_views.py]:[72] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 70, in pagePointLogList
+    return render_template('point_list.html', list=result)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\templates\point_list.html", line 26, in top-level template code
+    $("#table").append("<td>{{p.num}}</td>\
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'p' is undefined
+
+[2022-12-16 17:28:25,453] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-16 17:28:25,453] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 17:29:35,921] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:29:35,979] [ERROR] [main_views.py]:[72] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 70, in pagePointLogList
+    return render_template('point_list.html', list=result)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\templates\point_list.html", line 26, in top-level template code
+    $("#table").append("<td>{{p.num}}</td>\
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'p' is undefined
+
+[2022-12-16 17:29:36,111] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-16 17:29:36,111] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 17:30:38,449] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:30:38,507] [ERROR] [main_views.py]:[72] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 70, in pagePointLogList
+    return render_template('point_list.html', list=result)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\templates\point_list.html", line 26, in top-level template code
+    $("#table").append("<td>{{p.num}}</td>\
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'p' is undefined
+
+[2022-12-16 17:30:38,643] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-16 17:30:38,644] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 17:31:31,872] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:31:31,929] [ERROR] [main_views.py]:[72] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 70, in pagePointLogList
+    return render_template('point_list.html', list=result)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\templates\point_list.html", line 26, in top-level template code
+    $("#table").append("<td>{{p.num}}</td>\
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'p' is undefined
+
+[2022-12-16 17:31:32,058] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-16 17:31:32,059] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 17:32:24,641] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:32:24,698] [ERROR] [main_views.py]:[72] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 70, in pagePointLogList
+    return render_template('point_list.html', list=result)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\templates\point_list.html", line 26, in top-level template code
+    $("#table").append("<td>{{p.num}}</td>\
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'p' is undefined
+
+[2022-12-16 17:32:24,838] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-16 17:32:24,839] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 17:32:56,480] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:32:56,482] [ERROR] [main_views.py]:[72] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 70, in pagePointLogList
+    return render_template('point_list.html', list=result)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\templates\point_list.html", line 26, in top-level template code
+    $("#table").append("<td>{{p.num}}</td>\
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'p' is undefined
+
+[2022-12-16 17:32:56,627] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-16 17:32:56,628] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 17:33:14,792] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/]
+[2022-12-16 17:33:14,962] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/user_index.css]
+[2022-12-16 17:33:14,963] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:33:14,963] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/jquery-qrcode.js]
+[2022-12-16 17:33:18,452] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin]
+[2022-12-16 17:33:18,609] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:33:18,610] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/admin_index.css]
+[2022-12-16 17:33:20,395] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:33:20,551] [ERROR] [main_views.py]:[72] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 70, in pagePointLogList
+    return render_template('point_list.html', list=result)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 147, in render_template
+    return _render(app, template, context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\flask\templating.py", line 130, in _render
+    rv = template.render(context)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 1301, in render
+    self.environment.handle_exception()
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 936, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\templates\point_list.html", line 26, in top-level template code
+    $("#table").append("<td>{{p.num}}</td>\
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\venv\lib\site-packages\jinja2\environment.py", line 485, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'p' is undefined
+
+[2022-12-16 17:33:20,683] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-16 17:33:20,684] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 17:34:12,866] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:34:13,041] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:34:13,042] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:35:27,393] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:35:27,575] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:35:27,576] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:35:27,577] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:36:12,649] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:36:12,828] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:36:12,828] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:36:12,829] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:36:31,761] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:36:31,762] [INFO] [main_views.py]:[226] hong123 Token Check Success
+[2022-12-16 17:36:33,511] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:36:33,511] [INFO] [main_views.py]:[226] hong123 Token Check Success
+[2022-12-16 17:36:34,894] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:36:34,894] [INFO] [main_views.py]:[226] hong123 Token Check Success
+[2022-12-16 17:36:37,271] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:36:37,272] [INFO] [main_views.py]:[226] hong123 Token Check Success
+[2022-12-16 17:36:46,803] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:36:46,975] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:36:46,976] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:36:46,978] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:37:00,098] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:37:00,098] [INFO] [main_views.py]:[226] hong123 Token Check Success
+[2022-12-16 17:37:01,584] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:37:01,584] [INFO] [main_views.py]:[226] hong123 Token Check Success
+[2022-12-16 17:37:02,878] [INFO] [__init__.py]:[21] [POST][http://127.0.0.1:5000/token/check]
+[2022-12-16 17:37:02,879] [INFO] [main_views.py]:[226] hong123 Token Check Success
+[2022-12-16 17:37:05,312] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:37:05,593] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:37:05,594] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:37:05,594] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:37:37,744] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:37:37,923] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:37:37,924] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:37:37,925] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:38:25,160] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:38:25,339] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:38:25,339] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:38:25,340] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:39:29,527] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:39:29,694] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:39:29,695] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:39:29,696] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:39:30,985] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point/more?page=1]
+[2022-12-16 17:39:30,987] [ERROR] [main_views.py]:[102] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 98, in pagePointLogListMore
+    result = dao.getPointLog(start, end, page, range, keyword)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\db.py", line 111, in getPointLog
+    page = page - 1
+TypeError: unsupported operand type(s) for -: 'str' and 'int'
+
+[2022-12-16 17:40:52,984] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:40:53,163] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:40:53,164] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:40:53,165] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:40:54,334] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point/more?page=1]
+[2022-12-16 17:40:54,335] [ERROR] [main_views.py]:[104] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 97, in pagePointLogListMore
+    result = dao.getPointLog(start, end, page, range, keyword)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\db.py", line 111, in getPointLog
+    page = page - 1
+TypeError: unsupported operand type(s) for -: 'str' and 'int'
+
+[2022-12-16 17:41:37,007] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:41:37,186] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:41:37,187] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:41:37,188] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:41:37,867] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point/more?page=1]
+[2022-12-16 17:41:37,869] [ERROR] [main_views.py]:[104] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 96, in pagePointLogListMore
+    result = dao.getPointLog(start, end, page, range, keyword)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\db.py", line 111, in getPointLog
+    page = page - 1
+TypeError: unsupported operand type(s) for -: 'str' and 'int'
+
+[2022-12-16 17:44:14,623] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:44:14,790] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:44:14,791] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:44:14,792] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:44:15,433] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point/more?page=1]
+[2022-12-16 17:44:15,434] [ERROR] [main_views.py]:[104] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 96, in pagePointLogListMore
+    result = dao.getPointLog(start, end, page, range, keyword)
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\db.py", line 111, in getPointLog
+    page = page - 1
+TypeError: unsupported operand type(s) for -: 'str' and 'int'
+
+[2022-12-16 17:50:39,546] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:50:39,722] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:50:39,723] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:50:39,723] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:50:57,566] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:50:57,619] [ERROR] [main_views.py]:[73] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 69, in pagePointLogList
+    for i in range:
+TypeError: 'int' object is not iterable
+
+[2022-12-16 17:50:57,764] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-16 17:50:57,765] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 17:51:30,294] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:51:30,469] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:51:30,470] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:51:30,470] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:53:26,887] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:53:26,938] [ERROR] [main_views.py]:[73] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 70, in pagePointLogList
+    print(datetime.datetime(i[2]).strftime('%Y%m%d%H%M%S'))
+TypeError: 'datetime.datetime' object cannot be interpreted as an integer
+
+[2022-12-16 17:53:27,076] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-16 17:53:27,077] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 17:53:57,918] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:53:58,097] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:53:58,098] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:53:58,099] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:54:19,430] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:54:19,481] [ERROR] [main_views.py]:[73] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 70, in pagePointLogList
+    print(datetime(i[2]))
+TypeError: 'module' object is not callable
+
+[2022-12-16 17:54:19,612] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-16 17:54:19,612] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 17:54:32,991] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:54:33,154] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:54:33,155] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:54:33,156] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]
+[2022-12-16 17:54:49,263] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:54:49,415] [ERROR] [main_views.py]:[73] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 70, in pagePointLogList
+    print(datetime.datetime(i[2]).strftime('%Y'))
+TypeError: 'datetime.datetime' object cannot be interpreted as an integer
+
+[2022-12-16 17:54:49,544] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-16 17:54:49,544] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 17:55:29,239] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:55:29,295] [ERROR] [main_views.py]:[73] Traceback (most recent call last):
+  File "C:\Users\kwon\Desktop\Source\Flask\interminds_shop\app\views\main_views.py", line 70, in pagePointLogList
+    print(datetime.datetime(i[2]))
+TypeError: 'datetime.datetime' object cannot be interpreted as an integer
+
+[2022-12-16 17:55:29,430] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-16 17:55:29,430] [ERROR] [__init__.py]:[16] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-16 17:55:46,415] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-16 17:55:46,587] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/common.css]
+[2022-12-16 17:55:46,587] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/css/point_list.css]
+[2022-12-16 17:55:46,588] [INFO] [__init__.py]:[21] [GET][http://127.0.0.1:5000/static/js/point_list.js]

@@ -1,0 +1,29 @@
+{% with messages = get_flashed_messages() %}
+    {% if messages %}
+        <script>
+            alert("{{messages[-1]}}")
+        </script>
+    {% endif %}
+{% endwith %}
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interminds Shop</title>
+    <link rel="shortcut icon" type="image/x-icon" href="data:image/x-icon;," >
+    <link rel="stylesheet" type="text/css" href="/static/css/common.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/admin_index.css">
+</head>
+<body>
+    <div id="header">
+        <button id="signout" onclick="location.href='/auth/signout'">로그아웃</button>
+    </div>
+    <div id="container">
+        <button class="admin-btn" onclick="location.href='/admin/employee'">회원관리</button>
+        <button class="admin-btn" onclick="location.href='/admin/point'">로그확인</button>
+        <button class="admin-btn" onclick="location.href='/test/main'">테스트</button>
+    </div>
+</body>
+</html>

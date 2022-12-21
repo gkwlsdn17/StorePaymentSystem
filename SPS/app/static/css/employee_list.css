@@ -1,0 +1,29 @@
+input{
+    height: 30px;
+}
+
+#signout{
+    float: right;
+}
+
+#menu{
+    margin: 10px 20px;
+    overflow: hidden;
+}
+
+.left{
+    float: left;
+}
+
+#employee_insert{
+    margin-left: 10px;
+}
+
+#keyword{
+    margin-left: 30%;
+    width: 300px;
+}
+
+#search{
+    margin-left: 10px;
+}

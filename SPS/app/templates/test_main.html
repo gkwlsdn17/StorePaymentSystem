@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interminds Shop</title>
+    <link rel="shortcut icon" type="image/x-icon" href="data:image/x-icon;," >
+    <link rel="stylesheet" type="text/css" href="/static/css/common.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/test_main.css">
+    <script
+        src="https://code.jquery.com/jquery-3.6.2.js"
+        integrity="sha256-pkn2CUZmheSeyssYw3vMp1+xyub4m+e+QK4sQskvuo4="
+        crossorigin="anonymous"></script>
+</head>
+<body>
+    <div id="menu">
+        <button class="menu left" onclick="location.href='/admin'">HOME</button>
+        <button class="menu" id="signout" onclick="location.href='/auth/signout'">로그아웃</button>
+    </div>
+    <div id="container">
+        <div>PORT:</div>
+        <select id="port">
+            {% for port in port_list %}
+            <option value="{{port}}">{{port}}</option>
+            {% endfor %}
+        </select>
+        <div>POINT</div>
+        <input type="number" id="point">
+        <div>TOKEN</div>
+        <input type="text" id="token" readonly>
+        <div>
+            <button id="start" onclick="start()">입장</button>
+            <button id="end" onclick="end()" disabled style="background-color: red;">퇴장</button>
+        </div>
+        <div id="help">
+            포트를 선택하고 입장 버튼을 눌러 바코드를 스캔하세요.
+        </div>
+    </div>
+</body>
+</html>
+<script>
+    function help(type){
+        console.log(type)
+        if(type=='start'){
+            document.getElementById("help").innerHTML = '포인트를 입력하고 퇴장 버튼을 누르세요.'
+        }
+        else if(type=='end'){
+            document.getElementById("help").innerHTML = '포트를 선택하고 입장 버튼을 눌러 바코드를 스캔하세요.'
+        }
+        
+    }
+    function start(){
+        port = $("#port").val()
+        if(port == ''){
+            alert('포트를 선택하세요')
+            return
+        }
+        var option = "width=500, height=500"
+        popup = window.open('http://localhost:5000/', 'qrcode', option)
+
+        $.ajax({
+            type: 'GET',
+            url: '/test/start?port=' + port,
+            success: function (token) {
+                console.log(token)
+                document.getElementById("token").value = token.toString()
+                $("#start").attr('disabled', true)
+                $("#start").attr('style','background-color: red;')
+                $("#end").attr('disabled', false)
+                $("#end").attr('style','background-color: #282B3D')
+                help('start')
+                popup.close()
+            }
+        });
+    }
+
+    function end(){
+        point = $("#point").val()
+        if(point == ''){
+            alert("포인트를 입력하세요")
+            return
+        }
+        $.ajax({
+            type: 'GET',
+            url: '/test/end?point=' + point,
+            success: function (result) {
+                if(result == '000'){
+                    alert("성공")
+                    $("#start").attr('disabled', false)
+                    $("#start").attr('style','background-color: #282B3D')
+                    $("#end").attr('disabled', true)
+                    $("#end").attr('style','background-color: red;')
+                    help('end')
+                    document.getElementById("point").value = 0
+                    document.getElementById("token").value = ''
+                }
+                else{
+                    alert("실패")
+                }
+            }
+        });
+    }
+    
+</script>

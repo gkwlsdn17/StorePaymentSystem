@@ -1,0 +1,38 @@
+{% with messages = get_flashed_messages() %}
+    {% if messages %}
+        <script>
+            alert("{{messages[-1]}}")
+        </script>
+    {% endif %}
+{% endwith %}
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interminds Shop</title>
+    <link rel="shortcut icon" type="image/x-icon" href="data:image/x-icon;," >
+    <link rel="stylesheet" type="text/css" href="/static/css/common.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/employee_insert.css">
+</head>
+<body>
+    <div class="menu">
+        <button onclick="location.href='/admin'">HOME</button>
+        <button onclick="location.href='/admin/employee'">뒤로</button>
+    </div>
+    
+    <div id="container">
+        <form id="fm" action="/admin/employee/update", method="post">
+            <div class="ipt"><div class="ipt-title">이름:</div><input type="text" name="name" value="{{employee.name}}"></div>
+            <div class="ipt"><div class="ipt-title">ID:</div><input type="text" name="id" value="{{employee.user_id}}" readonly></div>
+            <div class="ipt"><div class="ipt-title">EMAIL:</div><input type="email" name="email" value="{{employee.email}}"></div>
+            <div class="ipt"><div class="ipt-title">직급:</div><input type="text" name="position" value="{{employee.position}}"></div>
+            <button id="submit" onclick="document.getElementById('fm').submit()">수정</button>
+            <!-- <input id="submit" type="submit"> -->
+        </form>
+    </div>
+    
+    
+</body>
+</html>

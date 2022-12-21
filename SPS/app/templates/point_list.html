@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interminds Shop</title>
+    <link rel="shortcut icon" type="image/x-icon" href="data:image/x-icon;," >
+    <link rel="stylesheet" type="text/css" href="/static/css/common.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/point_list.css">
+    <script
+        src="https://code.jquery.com/jquery-3.6.2.js"
+        integrity="sha256-pkn2CUZmheSeyssYw3vMp1+xyub4m+e+QK4sQskvuo4="
+        crossorigin="anonymous"></script>
+    <script src="/static/js/point_list.js"></script>
+</head>
+<body>
+    <div id="menu">
+        <button class="left" onclick="location.href='/admin'">HOME</button>
+        <input class="search-menu left" id="start" type="date" name="start"> 
+        <div class="search-menu left">~</div>
+        <input class="search-menu left" id="end" type="date" name="end">
+        <input class="search-menu left" id="keyword" type="text" name="keyword" autocomplete="off">
+        <button id="search left" class="search-menu" onclick="search()">조회</button>
+        <button id="signout" class="search-menu" onclick="location.href='/auth/signout'">로그아웃</button>
+    </div>
+    <div>
+        <table id="table">
+            <thead>
+                <tr>
+                    <th class="num"> </th>
+                    <th class="time">시간</th>
+                    <th class="user_id">아이디</th>
+                    <th class="point">포인트</th>
+                    <th class="memo">메모</th>
+                </tr>
+            </thead>
+            <tbody id="tbd">
+                {% for p in list %}
+                    <tr>
+                        <td class="num">{{p.num}}</td>
+                        <td class="time">{{p.crtime}}</td>
+                        <td class="user_id">{{p.user_id}}</td>
+                        <td class="point">{{p.point}}</td>
+                        <td class="memo">{{p.memo}}</td>
+                    </tr>
+                {% endfor %}
+                
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

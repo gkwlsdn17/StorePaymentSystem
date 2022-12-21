@@ -1,0 +1,85 @@
+[2022-12-15 16:42:16,881] [INFO] [app.logger] /admin/employee
+[2022-12-15 16:49:21,862] [INFO] [main_views.py]:[37] /admin/employee
+[2022-12-15 16:52:46,119] [ERROR] [__init__.py]:[17] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-15 16:53:49,940] [INFO] [main_views.py]:[37] <Request 'http://127.0.0.1:5000/admin/employee' [GET]>
+[2022-12-15 16:54:11,412] [INFO] [main_views.py]:[37] http://127.0.0.1:5000/admin/employee
+[2022-12-15 16:55:01,700] [INFO] [main_views.py]:[37] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 16:56:40,668] [INFO] [__init__.py]:[22] <Request 'http://127.0.0.1:5000/admin/employee' [GET]>
+[2022-12-15 16:56:40,669] [INFO] [main_views.py]:[37] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 16:56:55,620] [INFO] [__init__.py]:[22] <Request 'http://127.0.0.1:5000/admin/employee' [GET]>
+[2022-12-15 16:56:55,620] [INFO] [main_views.py]:[37] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 16:57:01,408] [INFO] [__init__.py]:[22] <Request 'http://127.0.0.1:5000/admin/employee' [GET]>
+[2022-12-15 16:57:01,408] [INFO] [main_views.py]:[37] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 16:57:43,948] [INFO] [__init__.py]:[23] <Request 'http://127.0.0.1:5000/admin/employee' [GET]>
+[2022-12-15 16:57:43,949] [INFO] [main_views.py]:[37] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 16:58:07,643] [INFO] [__init__.py]:[24] <Request 'http://127.0.0.1:5000/admin/employee' [GET]>
+[2022-12-15 16:58:07,643] [INFO] [main_views.py]:[37] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 16:58:50,365] [INFO] [__init__.py]:[24] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 16:58:57,548] [INFO] [__init__.py]:[24] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 17:29:59,144] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 17:30:01,267] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-15 17:30:30,437] [INFO] [__init__.py]:[22] [POST][http://127.0.0.1:5000/auth/signup]
+[2022-12-15 17:30:30,438] [ERROR] [auth_views.py]:[60] 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+[2022-12-15 17:30:30,574] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-15 17:30:30,575] [ERROR] [__init__.py]:[17] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-15 17:32:03,473] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-15 17:32:24,433] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-15 17:32:25,984] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-15 17:33:08,201] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-15 17:33:29,384] [INFO] [__init__.py]:[22] [POST][http://127.0.0.1:5000/auth/signup]
+[2022-12-15 17:33:29,611] [ERROR] [db.py]:[49] execute error: (psycopg2.errors.UndefinedColumn) 오류:  "연구원" 이름의 칼럼은 없습니다
+LINE 1: ...E6mrJFOaFHEwy', 'test1@interminds.ai', '연구원', 2, 연구원);
+                                                               ^
+HINT:  아마 "employee.eno" 칼럼을 참조하는 것 같습니다.
+
+[SQL: INSERT INTO employee(name, user_id, user_password, email, position, type, point) VALUES('테스트1', 'test1', '$2b$12$yQry5NmJXgdZ15L7SdSbZu9Q.hq6JhYnwhTsZ.dCE6mrJFOaFHEwy', 'test1@interminds.ai', '연구원', 2, 연구원);]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-12-15 17:33:29,611] [ERROR] [auth_views.py]:[60] local variable 'res' referenced before assignment
+[2022-12-15 17:33:29,749] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-15 17:33:29,750] [ERROR] [__init__.py]:[17] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-15 17:34:38,460] [INFO] [__init__.py]:[22] [POST][http://127.0.0.1:5000/auth/signup]
+[2022-12-15 17:34:38,691] [ERROR] [db.py]:[49] execute error: (psycopg2.errors.UndefinedColumn) 오류:  "연구원" 이름의 칼럼은 없습니다
+LINE 1: ...GjJnXCKYSIr5m', 'test1@interminds.ai', '연구원', 2, 연구원);
+                                                               ^
+HINT:  아마 "employee.eno" 칼럼을 참조하는 것 같습니다.
+
+[SQL: INSERT INTO employee(name, user_id, user_password, email, position, type, point) VALUES('테스트1', 'test1', '$2b$12$AITPrCGP8xGRNY4003s.NubkB4uAUO16GY91i3l/GjJnXCKYSIr5m', 'test1@interminds.ai', '연구원', 2, 연구원);]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+[2022-12-15 17:34:38,695] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 17:34:59,111] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 17:36:56,939] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-15 17:37:08,432] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 17:37:09,176] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 17:37:09,374] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 17:37:09,520] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 17:37:09,696] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 17:37:10,750] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/auth/signup]
+[2022-12-15 17:37:23,425] [INFO] [__init__.py]:[22] [POST][http://127.0.0.1:5000/auth/signup]
+[2022-12-15 17:37:23,652] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 18:10:58,764] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 18:11:32,117] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/employee]
+[2022-12-15 18:11:33,296] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-15 18:11:33,316] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin]
+[2022-12-15 18:12:16,472] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/logs]
+[2022-12-15 18:12:16,472] [ERROR] [__init__.py]:[17] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-15 18:12:16,580] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-15 18:12:16,580] [ERROR] [__init__.py]:[17] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-15 18:12:24,116] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin]
+[2022-12-15 18:12:46,684] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin]
+[2022-12-15 18:12:47,466] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/logs]
+[2022-12-15 18:12:47,466] [ERROR] [__init__.py]:[17] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-15 18:12:47,561] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-15 18:12:47,561] [ERROR] [__init__.py]:[17] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-15 18:12:51,980] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/logs]
+[2022-12-15 18:12:51,981] [ERROR] [__init__.py]:[17] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-15 18:12:52,076] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/favicon.ico]
+[2022-12-15 18:12:52,076] [ERROR] [__init__.py]:[17] 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+[2022-12-15 18:12:53,148] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin]
+[2022-12-15 18:12:53,692] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/point]
+[2022-12-15 18:12:53,736] [ERROR] [db.py]:[49] execute error: (psycopg2.errors.InvalidRowCountInResultOffsetClause) 오류:  OFFSET은 음수가 아니어야 함
+
+[SQL: SELECT * FROM pay_log WHERE crtime BETWEEN TO_TIMESTAMP('20221201','YYYYMMDD') AND TO_TIMESTAMP('20221231','YYYYMMDD') + INTERVAL '1 day' LIMIT 1000 OFFSET -1000;]
+(Background on this error at: https://sqlalche.me/e/14/9h9h)
+[2022-12-15 18:12:53,742] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin]
+[2022-12-15 18:13:25,540] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin]
+[2022-12-15 18:13:26,682] [INFO] [__init__.py]:[22] [GET][http://127.0.0.1:5000/admin/point]

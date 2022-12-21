@@ -1,0 +1,21 @@
+#header{
+    margin: 10px;
+}
+
+#signout{
+    float: right;
+    margin-bottom: 10px;
+}
+
+#container{
+    width: 100%;
+    clear: both;
+}
+
+.admin-btn{
+    float: left;
+    width: 48%;
+    margin: 1%;
+    height: 500px;
+    font-size: 50px;
+}

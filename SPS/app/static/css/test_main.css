@@ -1,0 +1,21 @@
+#menu{
+    margin:20px 50px;
+}
+#signout{
+    float:right;
+}
+#container{
+    margin: 50px;
+}
+select{
+    height: 30px;
+}
+input{
+    height: 30px;
+}
+#token{
+    width: 400px;
+}
+div{
+    margin-top: 20px;
+}

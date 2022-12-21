@@ -1,0 +1,34 @@
+input{
+    height: 30px;
+}
+
+#signout{
+    float: right;
+}
+
+#menu{
+    margin: 10px 20px;
+    overflow: hidden;
+}
+
+.left{
+    float: left;
+}
+
+.search-menu{
+    margin-left: 10px;
+    text-align: center;
+}
+
+#keyword{
+    width: 150px;
+}
+
+#start{
+    margin-left: 50px;
+}
+
+.num{width: 7%;}
+.time{width: 20%;}
+.user_id{width: 20%;}
+.point{width: 10%;}

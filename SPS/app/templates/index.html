@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interminds Shop</title>
+    <link rel="shortcut icon" type="image/x-icon" href="data:image/x-icon;," >
+    <link rel="stylesheet" type="text/css" href="/static/css/common.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/user_index.css">
+    <script
+        src="https://code.jquery.com/jquery-3.6.2.js"
+        integrity="sha256-pkn2CUZmheSeyssYw3vMp1+xyub4m+e+QK4sQskvuo4="
+        crossorigin="anonymous"></script>
+    <script src="../static/js/jquery-qrcode.js"></script>
+    <script>
+        $(document).ready(function(){
+            var count = 59;
+            qrtext = getText();
+            var qrcode = new QRCode(document.getElementById("qrcode"), qrtext);
+
+            var time = setInterval(
+                function(){
+                    document.getElementById("timer").innerHTML = count;
+                    count -= 1;
+                    if(count < 0){
+                        count = 59;
+                    }
+                }, 1000);
+
+            var display = setInterval(
+                function(){
+                    qrcode.clear();
+                    qrtext = getText();
+                    qrcode.makeCode(qrtext);
+                }, 60000);
+            
+        });
+
+        function getText(){
+            var today = new Date();
+            var year = today.getFullYear();
+            var month = (today.getMonth() + 1).toString().padStart(2,'0');
+            var day = today.getDate().toString().padStart(2,'0');
+            var hours = today.getHours().toString().padStart(2,'0');
+            var min = today.getMinutes().toString().padStart(2,'0');
+            var sec = today.getSeconds().toString().padStart(2,'0');
+
+            qrtext =  '{{ employee.user_id }}'+ '$' +  year + month + day + hours + min + sec;
+            return qrtext;
+        }
+    </script>
+    
+</head>
+<body>
+    <div id="header">
+        <div class="left" id="name">{{ employee.name }}</div>
+        <div class="left" id="point">{{ employee.point }}</div>
+        <button id="signout" onclick="location.href='/auth/signout'">로그아웃</button>
+    </div>
+    <div id="container">
+        <div id="timer"></div>
+        <div id="qrcode" style="width:300px; height:300px;"></div>
+    </div>
+</body>
+</html>

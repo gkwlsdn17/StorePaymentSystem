@@ -1,0 +1,22 @@
+div{
+    margin-top: 20px;
+}
+input{
+    height: 30px;
+    width: 290px;
+}
+#container{
+    margin: 100px;
+}
+#btn{
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+}
+form{
+    margin: 20px auto;
+    width: 300px;
+}
+#wrap{
+    margin: 10px auto;
+}

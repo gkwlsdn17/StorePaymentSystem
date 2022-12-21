@@ -1,0 +1,37 @@
+{% with messages = get_flashed_messages() %}
+    {% if messages %}
+        <script>
+            alert("{{messages[-1]}}")
+        </script>
+    {% endif %}
+{% endwith %}
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="shortcut icon" type="image/x-icon" href="data:image/x-icon;," >
+    <link rel="stylesheet" type="text/css" href="/static/css/common.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/auth_main.css">
+    <script>
+        function submit(form){
+            form.submit()
+        }
+    </script>
+</head>
+<body>
+    <div id="container">
+        <form action="/auth/signin", method="post">
+            <div id="wrap">
+                <div>ID:</div><input type="text" name="id">
+                <div>PW:</div><input type="password" name="pw">
+            </div>
+            <button id="btn" onclick="submit(this.form)">로그인</button>
+        </form>
+    </div>
+    
+    
+</body>
+</html>

@@ -6,7 +6,7 @@ from werkzeug.utils import redirect
 from ..db import DAO
 from app.Common import Token, RESULT, __TIMEOUT__SEC__, __TIMEOUT__DAY__, __OFFSET__
 from app.logger import logger
-from ..test import token_make, token_check
+from ..module import token_make, token_check
 bp = Blueprint('test', __name__, url_prefix="/test")
 PORT = ''
 TOKEN = ''

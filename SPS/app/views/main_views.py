@@ -100,7 +100,7 @@ def pagePointLogList():
             keyword = ''
         print(start, end)
         result = dao.getPointLog(start, end, page, __OFFSET__, keyword)
-        return render_template('point_list.html', list=result)
+        return render_template('point_list.html', list=result, startDate=start, endDate=end)
     except Exception as e:
         logger.error(traceback.format_exc())
         flash(e)
